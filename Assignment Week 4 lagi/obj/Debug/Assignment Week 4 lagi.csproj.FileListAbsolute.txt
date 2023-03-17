@@ -1,0 +1,10 @@
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\obj\Debug\Assignment Week 4 lagi.csproj.AssemblyReference.cache
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\obj\Debug\Assignment_Week_4_lagi.MainWindowForm.resources
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\obj\Debug\Assignment_Week_4_lagi.SecondWindowForm.resources
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\obj\Debug\Assignment Week 4 lagi.csproj.GenerateResource.cache
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\obj\Debug\Assignment Week 4 lagi.csproj.CoreCompileInputs.cache
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\bin\Debug\Assignment Week 4 lagi.dll
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\bin\Debug\Assignment Week 4 lagi.pdb
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\obj\Debug\Assignment Week 4 lagi.dll
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\obj\Debug\Assignment Week 4 lagi.pdb
+C:\Users\William Kesuma\Desktop\Assignment Week 4 lagi\Assignment Week 4 lagi\obj\Debug\Assignment_Week_4_lagi.UserControl1.resources
